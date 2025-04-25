@@ -48,7 +48,7 @@ Enable daily/weekly auto-runs via scheduled jobs (e.g., cron, Airflow)
 
 Add multilingual support for global reviews
 
-Output : 
+# Output : 
 ![Image](https://github.com/user-attachments/assets/264830ad-181b-4e12-aca6-03ced7673388)
 
 Integrate directly with Google Maps API for live review fetching
